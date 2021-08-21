@@ -12,3 +12,4 @@ class def {
     }
 }
 // This is the added line
+// Final line
